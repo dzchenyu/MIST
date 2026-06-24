@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (generated at runtime)
+results/
+batch_results/
+
+# Models (too large for git)
+*.safetensors
+*.bin
+*.gguf
+Llama-2-7b-chat-hf/
