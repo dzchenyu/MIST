@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the MIST paper listed below."
+type: software
+title: "MIST: Malicious In-Distribution Stealth Attack on LLMs via Benign Interspersion (official implementation)"
+authors:
+  - family-names: Chen
+    given-names: Yuxiang
+  - family-names: He
+    given-names: Zekai
+  - family-names: Hong
+    given-names: Haibo
+repository-code: "https://github.com/dzchenyu/MIST"
+doi: "10.1007/978-981-92-6837-5_8"
+date-released: 2026-10-23
+preferred-citation:
+  type: conference-paper
+  title: "MIST: Malicious In-Distribution Stealth Attack on LLMs via Benign Interspersion"
+  authors:
+    - family-names: Chen
+      given-names: Yuxiang
+    - family-names: He
+      given-names: Zekai
+    - family-names: Hong
+      given-names: Haibo
+  collection-title: "Lecture Notes in Computer Science"
+  volume: 17216
+  pages: "140-158"
+  publisher:
+    name: "Springer Nature Singapore"
+  conference:
+    name: "28th International Conference on Information and Communications Security (ICICS 2026)"
+  year: 2026
+  doi: "10.1007/978-981-92-6837-5_8"
+  url: "https://doi.org/10.1007/978-981-92-6837-5_8"
